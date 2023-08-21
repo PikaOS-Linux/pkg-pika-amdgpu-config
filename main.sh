@@ -3,7 +3,7 @@
 DEBIAN_FRONTEND=noninteractive
 
 # Clone Upstream
-cd ./pika-nvidia-config
+cd ./pika-amdgpu-config
 
 # Get build deps
 apt-get build-dep ./ -y
